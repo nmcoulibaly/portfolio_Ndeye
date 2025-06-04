@@ -1,0 +1,70 @@
+{
+    "hero": {
+        "greeting": "Bonjour, je suis",
+        "name": "Ndeye Mbar",
+        "surname": "COULIBALY",
+        "description": "Développeuse fullstack curieuse et motivée, avec une expérience pratique dans la création d'applications réactives et performantes utilisant les technologies modernes. Compétente en intégration frontend-backend, développement d'API sécurisées et livraison de fonctionnalités de bout en bout en équipe agile. Passionnée par les solutions IA, la recherche sémantique et les expériences utilisateurs impactantes.",
+        "cta": "Voir mes projets",
+        "role": "Développeuse FULLSTACK"
+    },
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "skills": "Compétences",
+        "projects": "Projets",
+        "contact": "Contact"
+    },
+    "about": {
+        "title1": "À Propos",
+        "title2": "De Moi",
+        "subtitle": "Développeuse fullstack passionnée et créatrice de technologie",
+        "para1": "Avec plus de 3 ans d'expérience en développement web, je me spécialise dans la création d'applications web réactives, accessibles et performantes utilisant des technologies modernes.",
+        "para2": "Je suis passionné par la création de solutions élégantes à des problèmes complexes et j'apprends constamment de nouvelles technologies et techniques pour rester à la pointe du paysage Web en constante évolution.",
+        "contact": "Entrer en contact",
+        "resume": "Télécharger CV",
+        "subtitle1": "Dévelopment Web",
+        "subtitle2": "UI/UX Design",
+        "subtitle3": "Data & IA",
+        "subPara1": "Création de sites Web réactifs et d'applications Web fullstack à l'aide de frameworks modernes.",
+        "subPara2": "Concevoir des interfaces utilisateur intuitives et offrir des expériences utilisateur fluides sur tous les appareils.",
+        "subPara3": "Développer des modèles basés sur l'IA et effectuer des analyses de données avec les technologies Big Data."
+    },
+      "categories" : {
+        "all":"toutes",
+        "frontend":"frontend", 
+        "backend": "backend", 
+        "tools": "outils"
+    },
+    "skills": {
+        "title1": "Mes",
+        "title2": "Compétences"
+    },
+    "projects" : {
+    "title1": "Projets",
+    "title2": "Récents",
+    "description": "Voici quelques-uns de mes projets récents. Chaque projet a été soigneusement conçu avec une attention particulière portée aux détails, aux performances et à l'expérience utilisateur.",
+    "check": "Consultez mon Github",
+    "inventory": {
+        "title": "Gestion de Stock",
+        "desc": "Conception et développement d'une application web de gestion d'inventaire complète. Frontend avec Next.js, TailwindCSS, Redux Toolkit et Material UI Data Grid. Backend sécurisé avec Node.js et Prisma, authentification JWT et gestion des rôles. Déploiement sur AWS (EC2, RDS, S3, Amplify, API Gateway). Interface réactive et documentation complète."
+    },
+    "analytics": {
+        "title": "Tableau de bord d'analyse d'orbite",
+      "desc": "Tableau de bord analytique interactif avec visualisation dynamique des données et filtres avancés. Intégration de Power BI et Grafana pour la surveillance en temps réel."
+    },
+    "restaurant": {
+        "title": "Site Internet Restaurant",
+      "desc": "Site moderne de restaurant réalisé en HTML, CSS et JavaScript, avec authentification utilisateur et paiement intégré."
+    }
+},
+"contact" : {
+    "title1": "Entrer",
+    "title2" : "En Contact",
+    "para": "Vous avez un projet en tête ou souhaitez collaborer ? N'hésitez pas à me contacter. Je suis toujours ouverte à de nouvelles opportunités.",
+    "info": "Information de contact",
+    "message": "Envoyer un message",
+    "yourname": "Votre nom",
+    "youremail": "Votre email",
+    "yourmessage": "Votre message"
+}
+}

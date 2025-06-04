@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Ndeye Mbar",
+    "surname": "COULIBALY",
+    "description": "Curious and motivated fullstack developer with hands-on experience building responsive and performant applications using modern technologies. Skilled in frontend-backend integration, secure API development, and delivering end-to-end features in agile teams. Passionate about AI-driven solutions, semantic search, and impactful user experiences.",
+    "cta": "View My Work",
+    "role": "FULLSTACK DEVELOPER"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title1": "About",
+    "title2": "Me",
+    "subtitle": "Passionate fullstack Developer & Tech Creator",
+    "para1": "With over 3 years of experience in web development, I specialize in creating responsive, accessible, and performant web applications using modern technologies.",
+    "para2": "I'm passionate about creating elegant solutions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape.",
+    "contact": " Get In Touch",
+    "resume": "Download CV",
+    "subtitle1": "Web Development",
+    "subtitle2": "UI/UX Design",
+    "subtitle3": "Data & AI",
+    "subPara1": "Building responsive websites and fullstack web applications using modern frameworks",
+    "subPara2": "Designing intuitive user interfaces and delivering seamless user experiences across devices.",
+    "subPara3": "Developing AI-powered models and performing data analysis with Big Data technologies."
+  },
+   "categories" : {
+    "all":"all", 
+    "frontend":"frontend",
+    "backend": "backend", 
+    "tools": "tools"
+},
+  "skills": {
+    "title1": "My",
+    "title2": "Skills"
+},
+"projects" : {
+    "title1": "Featured",
+    "title2": "Projects",
+    "description": "Here are some of my recent projects. Each project was carefully crafted with attention to detail, performance, and user experience.",
+    "check": " Check My Github",
+    "inventory": {
+      "title": "Inventory Management",
+      "desc": "Designed and developed a full-featured inventory management web application. Built the frontend with Next.js, TailwindCSS, Redux Toolkit, and Material UI Data Grid. Implemented secure backend APIs using Node.js and Prisma, with JWT authentication and role-based access control. Deployed on AWS (EC2, RDS, S3, Amplify, API Gateway) for scalability. Delivered a responsive UI and fully documented the API and infrastructure."
+    },
+    "analytics": {
+        "title": "Orbit Analytics Dashboard",
+      "desc": "Built an interactive analytics dashboard with dynamic data visualization and advanced filtering. Integrated tools like Power BI and Grafana for real-time monitoring and insights."
+    },
+    "restaurant": {
+        "title": "Site Internet Restaurant",
+      "desc": "Modern restaurant website built with HTML, CSS, and JavaScript, featuring user authentication and integrated payment processing."
+    }
+},
+"contact" : {
+    "title1": "Get In ",
+    "title2" : "Touche",
+    "para": "Have a project in mind or want to collaborate? Feel free to reach out. I'm always open to discussing new opportunities.",
+    "info": "Contact Information",
+    "message": "Send a Message",
+    "yourname": "Your name",
+    "youremail": "Your Email",
+    "yourmessage": "Your message"
+}
+ 
+}
