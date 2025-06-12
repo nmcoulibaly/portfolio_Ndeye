@@ -6,7 +6,7 @@ const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex flex-col items-center justify-center px-4"
+      className="relative min-h-screen flex flex-col items-center justify-center px-4 pt-0 md:pt-12"
     >
       <div className="container">
         <div className="md:grid md:grid-cols-[auto,1fr] md:items-center md:gap-3">
@@ -15,7 +15,7 @@ const HeroSection = () => {
             <img
               src="/projects/img_portfolio.PNG"
               alt="Ndeye Mbar Coulibaly"
-              className="w-28 h-28 md:w-40 md:h-40 rounded-full object-cover shadow-lg opacity-0 animate-fade-in-delay-2"
+              className="w-40 h-40 md:w-50 md:h-50 sm:w-20 sm:h-20 rounded-full object-cover shadow-lg opacity-0 animate-fade-in-delay-2"
             />
         </div>
           {/* Texte de présentation */}
