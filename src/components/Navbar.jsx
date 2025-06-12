@@ -15,11 +15,11 @@ function LanguageSwitcher() {
   return (
     <div className="flex gap-2 p-2">
       <button onClick={() => i18n.changeLanguage("en")}>
-        <img src="/public/projects/angleterre.jpg" alt="English" className="inline w-5 h-5 mr-1 rounded" />
+        <img src="/projects/angleterre.jpg" alt="English" className="inline w-5 h-5 mr-1 rounded" />
         EN
         </button> |
       <button onClick={() => i18n.changeLanguage("fr")}>
-        <img src="/public/projects/france.png" alt="English" className="inline w-5 h-5 mr-1 rounded" />
+        <img src="/projects/france.png" alt="English" className="inline w-5 h-5 mr-1 rounded" />
         FR
       </button>
     </div>
