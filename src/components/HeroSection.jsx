@@ -15,12 +15,12 @@ const HeroSection = () => {
             <img
               src="/projects/img_portfolio.PNG"
               alt="Ndeye Mbar Coulibaly"
-              className="w-40 h-40 md:w-50 md:h-50 rounded-full object-cover shadow-lg opacity-0 animate-fade-in-delay-2"
+              className="w-28 h-28 md:w-40 md:h-40 rounded-full object-cover shadow-lg opacity-0 animate-fade-in-delay-2"
             />
         </div>
           {/* Texte de présentation */}
           <div className="text-left">
-             <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
+             <h1 className="text2-xl md:text-6xl font-bold tracking-tight">
               {t("hero.greeting")} <span className="text-primary opacity-0 animate-fade-in-delay-1"> {t("hero.name")}</span> 
               <span className="opacity-0 animate-fade-in"> {t("hero.surname")}</span>
             </h1>
