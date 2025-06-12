@@ -13,7 +13,7 @@ const HeroSection = () => {
           {/* Photo */}
           <div>
             <img
-              src="/public/projects/img_portfolio.png"
+              src="/projects/img_portfolio.png"
               alt="Ndeye Mbar Coulibaly"
               className="w-40 h-40 md:w-50 md:h-50 rounded-full object-cover shadow-lg opacity-0 animate-fade-in-delay-2"
             />
